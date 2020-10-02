@@ -1,5 +1,5 @@
 {
-  "name": "avatax",
+  "name": "@streamkast/avatax",
   "version": "20.9.0",
   "description": "AvaTax v2 SDK for languages using JavaScript",
   "main": "index.js",
